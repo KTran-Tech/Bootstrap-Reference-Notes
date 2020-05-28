@@ -35,13 +35,6 @@ class="float-sm-right" when screen is a minimum of small screen size then float 
 class="float-xl-left" when screen is a minimum of xl screen size then float right or center
 class="float-sm/md/lg/xl-none"
 
-// CLEARFIX 🥑️
-class="clearfix"
-EXAMPLE:
-        <div class="bg-success clearfix">
-            <button class="float-left">Float Left</button>
-            <button class="float-right">Float Right</button>
-        </div>
 
 //FIXED POSITIONING 🥑️
 class="fixed-top" or "bottom"
