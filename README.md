@@ -1,4 +1,5 @@
 # Bootstrap Note
+*This is just a snippet 
 
 *Its important to add a clearfix when floating buttons ect so that we cant get the functionality that we want.
 
@@ -50,11 +51,6 @@ class="text-secondary"
 // COLORS FOR BACKGROUNDS 🥑️
 class="bg-primary" or a combination class="bg-secondary text-white"
 
-// MARGIN AND PADDING 🥑️
-Note: Margin and Padding: 5 is the max
-class="mb-2" means margin bottom 2, mb-2 is actually default or on all side class="p3"
-class="mt/mr/ml-5" class="mx/my" means both left and right or top and bottom
----
 Note: Margin and Padding: 5 is the max
 class="pb-5" or class="pt/pl/pr/px/py" or on all side class="p3"
 class="mx-auto" is horizontal centering for padding 
